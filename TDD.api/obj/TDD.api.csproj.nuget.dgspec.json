@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\GitHub\\ref-1\\tdd.api\\TDD.api.csproj": {}
+    "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\github\\ref-1\\TDD.api\\TDD.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\GitHub\\ref-1\\tdd.api\\TDD.api.csproj": {
+    "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\github\\ref-1\\TDD.api\\TDD.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\GitHub\\ref-1\\tdd.api\\TDD.api.csproj",
+        "projectUniqueName": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\github\\ref-1\\TDD.api\\TDD.api.csproj",
         "projectName": "TDD.api",
-        "projectPath": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\GitHub\\ref-1\\tdd.api\\TDD.api.csproj",
+        "projectPath": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\github\\ref-1\\TDD.api\\TDD.api.csproj",
         "packagesPath": "C:\\Users\\feno.FENO-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\GitHub\\ref-1\\tdd.api\\obj\\",
+        "outputPath": "C:\\Users\\feno.FENO-PC\\OneDrive\\Documents\\github\\ref-1\\TDD.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
